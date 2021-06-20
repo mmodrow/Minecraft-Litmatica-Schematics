@@ -1,0 +1,68 @@
+{
+  "name": "Kelp Farm",
+  "origin": [
+    -177,
+    4,
+    150
+  ],
+  "current_version_id": 0,
+  "selection_normal": {
+    "name": "Kelp Farm"
+  },
+  "selection_simple": {
+    "name": "Kelp Farm",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -177,
+          4,
+          150
+        ],
+        "pos2": [
+          -177,
+          4,
+          150
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "last_seen_area": {
+    "name": "Kelp Farm",
+    "boxes": [
+      {
+        "pos1": [
+          -177,
+          4,
+          150
+        ],
+        "pos2": [
+          -177,
+          4,
+          150
+        ],
+        "name": "Unnamed"
+      }
+    ],
+    "origin": [
+      -177,
+      4,
+      150
+    ]
+  },
+  "selection_mode": "SIMPLE",
+  "versions": [
+    {
+      "name": "Kelp Farm",
+      "file_name": "Kelp Farm_00001",
+      "area_offset": [
+        0,
+        0,
+        0
+      ],
+      "version": 1,
+      "timestamp": 1616773775664
+    }
+  ]
+}
